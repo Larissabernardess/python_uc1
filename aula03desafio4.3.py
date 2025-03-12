@@ -17,7 +17,7 @@ num/=4
 print(f'A divição é:{num}')
 
 num//=3
-print(f'A divição inteira é:{num}')s
+print(f'A divição inteira é:{num}')
 
 num%=2
 print(f'O módulo é:{num}')
